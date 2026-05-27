@@ -36,6 +36,6 @@ pip install fastapi uvicorn streamlit requests
 python Base_Generator.py.
 ```
 
-**-Windows:** Kliknij dwukrotnie plik uruchom.bat. **-Terminal Windows:** Wpisz w jednym oknie komendę: ```uvicorn api_do_reklamacji:app --reload``` a następnie w drugim, nowym oknie komendę: ```streamlit run frontend.py```
+**-Windows:** Kliknij dwukrotnie plik Start.bat. **-Terminal Windows:** Wpisz w jednym oknie komendę: ```uvicorn api_do_reklamacji:app --reload``` a następnie w drugim, nowym oknie komendę: ```streamlit run frontend.py```
 
 ***Uwaga: Projekt znajduje się obecnie w fazie rozwoju i testów (wersja deweloperska). Kolejne funkcje będą dodawane na bieżąco.***
