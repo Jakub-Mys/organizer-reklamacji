@@ -8,7 +8,7 @@ Cały system opiera się na kilku plikach, z których każdy odpowiada za inną 
 
 **2.1. Silnik i Serwer**
 
-Plik api_do_reklamacji.py to serwer (API), który zarządza danymi. Zapisuje informacje w bazie danych i automatycznie wylicza, ile dni zostało na rozwiązanie sprawy.
+Plik complaints_API.py to serwer (API), który zarządza danymi. Zapisuje informacje w bazie danych i automatycznie wylicza, ile dni zostało na rozwiązanie sprawy.
 
 **2.2. Wygląd aplikacji**
 
